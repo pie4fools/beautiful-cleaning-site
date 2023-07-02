@@ -21,4 +21,4 @@ About: About the company, CTA Services
 Services: Interactive service buttons expanding when pressed (Framer Motion). CTA Schedule Now
 
 Schedule: Interactive form selecting which services are wanted, ability to set an appointment date/time, Personal details/Address Sends JSON data to owner/customer in the 
-form of Services Selected, Date/Time selected, & Price. 
+form of Services Selected, Date/Time selected, & Price.
